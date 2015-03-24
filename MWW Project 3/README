@@ -16,3 +16,6 @@ Titanium is Copyright (c) 2008-2013 by Appcelerator, Inc. All Rights Reserved.
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
 
+
+Peer Evaluation:
+After taking out the camera code the tea selection part of the application works great. The problem with the camera code is not your fault, code is written correct from what I can tell, the problem is that Titanium won't run the camera on an emulator without an error. Also the switching windows to the camera code should work but I am not able to test because of the error. Good job with the application.
